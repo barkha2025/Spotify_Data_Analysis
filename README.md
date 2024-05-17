@@ -17,3 +17,9 @@ Programming Language : Python
 Libraries : Pandas,Numpy,Matplotlib,Seaborn
 
 IDE : Jupyter Notebook
+
+
+**Datasets used:**
+
+[track.csv & SpotifyFeatures.csv](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv)
+
